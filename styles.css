@@ -1,14 +1,16 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+     font-family: 'EB Garamond', serif;
     
-        font-family: Arial, Helvetica, sans-serif;
         background-image: url("https://www.designbolts.com/wp-content/uploads/2012/12/Skeletal-Weave-White-Tileable-pattern-for-website-background.jpg");
     }
     
-
+.contactHeader {
+    font-family: 'EB Garamond', serif;
+    color: #13ACA1;
+}
 
 navbar-brand {
-    background-color: aquamarine;
+    background-color: #13ACA1;
 }
 
 .portfolioBody {
@@ -18,7 +20,19 @@ navbar-brand {
 }
 
 .bodyHeader {
-color: aquamarine;
-font-family: Arial, Helvetica, sans-serif;
-font-weight: 800;
+color: #13ACA1;
+font-family: 'EB Garamond', serif;
+font-weight: bold;
+}
+
+.indexBody {
+    background-color: white;
+    margin: 20px;
+    padding: 20px
+}
+
+.indexHeader {
+    color: #13ACA1;
+    font-family: 'EB Garamond', serif;
+    font-weight: bold;
 }
